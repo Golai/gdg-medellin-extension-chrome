@@ -1,0 +1,11 @@
+{
+	"appName": {
+		"message": "Tope extension Libreria Nacional"
+	},
+	"appDescription": {
+		"message": "esta extension permite y ayuda a tomar decisiones en la libreria nacional"
+	},
+	"defaultTitle": {
+		"message": "super app"
+	}
+}
